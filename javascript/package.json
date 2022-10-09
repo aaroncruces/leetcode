@@ -1,0 +1,23 @@
+{
+  "name": "leetcode_javascript",
+  "version": "1.0.0",
+  "description": "Leetcode Exersices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaroncruces/leetcode.git"
+  },
+  "author": "Aaron Cruces",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaroncruces/leetcode/issues"
+  },
+  "homepage": "https://github.com/aaroncruces/leetcode#readme",
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "nodemon": "^2.0.20"
+  }
+}
